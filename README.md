@@ -137,11 +137,11 @@ Dr. D. Y. Patil College of Engineering, Pune | Graduated: June 2022
 
 | Repository | Description |
 |-----------|-------------|
-| [Bash-Scripts](https://github.com/RohitlearnGitHub/bash-scripts) | Collection of production-ready Bash scripts for system administration |
-| [Ansible-Playbooks](https://github.com/RohitlearnGitHub/ansible-playbooks) | Ansible playbooks for server automation and configuration management |
-| [Linux-Hardening](https://github.com/RohitlearnGitHub/linux-hardening) | CIS benchmark implementation scripts and security hardening guides |
-| [Monitoring-Setup](https://github.com/RohitlearnGitHub/monitoring-setup) | Nagios and Grafana configuration templates |
-| [Docker-Compose-Labs](https://github.com/RohitlearnGitHub/docker-labs) | Docker and containerization learning resources |
+| [Bash-Scripts](https://github.com/rohit-jadhav2499/bash-scripts) | Collection of production-ready Bash scripts for system administration |
+| [Ansible-Playbooks](https://github.com/rohit-jadhav2499/ansible-playbooks) | Ansible playbooks for server automation and configuration management |
+| [Linux-Hardening](https://github.com/rohit-jadhav2499/linux-hardening) | CIS benchmark implementation scripts and security hardening guides |
+| [Monitoring-Setup](https://github.com/rohit-jadhav2499/monitoring-setup) | Nagios and Grafana configuration templates |
+| [Docker-Compose-Labs](https://github.com/rohit-jadhav2499/docker-labs) | Docker and containerization learning resources |
 
 ---
 
@@ -149,7 +149,7 @@ Dr. D. Y. Patil College of Engineering, Pune | Graduated: June 2022
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-4a0b27232/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjadhav7155@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RohitlearnGitHub)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/rohit-jadhav2499)
 
 ---
 
