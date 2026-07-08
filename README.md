@@ -147,7 +147,7 @@ Dr. D. Y. Patil College of Engineering, Pune | Graduated: June 2022
 
 ## 💬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/rohit-jadhav-7155])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-jadhav-4a0b27232/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitjadhav7155@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/RohitlearnGitHub)
 
